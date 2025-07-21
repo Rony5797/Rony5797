@@ -6,33 +6,40 @@ Welcome to my GitHub profile!
 
 I'm a passionate MERN stack developer based in New York. I love building full-stack applications using MongoDB, Express.js, React, and Node.js. My journey in web development started four years ago and I have been loving it ever since.
 
-- 🌱 I’m currently learning advanced React and GraphQL
-- 💬 Ask me about MERN stack, JavaScript, and open-source projects
-- 📫 How to reach me: [ronyjs.com](mailto:rooneyhossain@gmail.com)
+- 🌱 I’m currently learning advanced React and GraphQL  
+- 💬 Ask me about MERN stack, JavaScript, and open-source projects  
+- 📫 How to reach me: [rooneyhossain@gmail.com](mailto:rooneyhossain@gmail.com)  
 - ⚡ Fun fact: I love hiking and have climbed Mount Kilimanjaro!
 
 ## My Skills
 
-- **Languages**: JavaScript
-- **Frameworks & Libraries**: React, Node.js, Express.js, Next.js
-- **Databases**: MongoDB, SQL
-- **Tools**: Git, Docker, Kubernetes, Webpack
+- **Languages**: JavaScript  
+- **Frameworks & Libraries**: React, Node.js, Express.js, Next.js  
+- **Databases**: MongoDB, SQL  
+- **Tools**: Git, Docker, Kubernetes, Webpack  
 
 ## My Projects
 
 Here are some of my recent projects:
 
-### [E-Commerce Platform](https://github.com/johndoe/e-commerce-platform)
+### [E-Commerce Platform](https://github.com/Rony5797/e-commerce-platform)  
+**Description**: A full-featured e-commerce platform built with the MERN stack.
 
-Description: A full-featured e-commerce platform built with the MERN stack.
+### [Social Media App](https://github.com/Rony5797/social-media-app)  
+**Description**: A social media application with real-time chat and post-sharing features, built using MongoDB, Express.js, React, and Node.js.
 
-### [Social Media App](https://github.com/johndoe/social-media-app)
+### [Exo Guardians International Ltd](https://exo-guardiansinternationalpltd.com)  
+**Description**: Corporate website for an international security services company, showcasing services, certifications, and global operations.
 
-Description: A social media application with real-time chat and post-sharing features, built using MongoDB, Express.js, React, and Node.js.
+### [Abbasio Quran Learning Leadership School](https://www.abbasioquranlearningleadershipschool.com)  
+**Description**: Educational platform designed for online Quran learning, featuring student enrollment, leadership programs, and interactive learning modules.
+
+### [Patenga Online](https://patengaonline.com.bd)  
+**Description**: A local Bangladeshi digital platform offering news, updates, and essential online services to the Patenga community.
 
 ## GitHub Stats
 
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
+![Rony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rony5797&show_icons=true&theme=radical)
 
 ## Get In Touch
 
@@ -40,4 +47,4 @@ Description: A social media application with real-time chat and post-sharing fea
 
 Thanks for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
 
-![Visitor Count](https://profile-counter.glitch.me/johndoe/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Rony5797/count.svg)
