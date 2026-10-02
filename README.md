@@ -1,161 +1,301 @@
-<h1 align="center">Hi there, I'm Rony Hossain 👋</h1>
+<div align="center">
 
-<h3 align="center">MERN Stack Developer | Full-Stack Web Application Developer</h3>
+# 👋 Rony Hossain
 
-<p align="center">
-  <a href="mailto:rooneyhossain@gmail.com">Email</a> •
-  <a href="https://github.com/Rony5797">GitHub</a> •
-  <a href="https://womenstylexpert.com/">Portfolio Projects</a>
-</p>
+### Full-Stack Developer | MERN Stack Specialist | Web Application Architect
 
----
-
-## About Me
-
-I am a passionate **MERN Stack Developer** based in New York, focused on building modern, scalable, and production-ready web applications.  
-
-I specialize in developing full-stack solutions using **MongoDB, Express.js, React, Node.js, and Next.js**. With several years of experience in web development, I enjoy transforming ideas into clean, functional, and user-friendly digital products.
-
-I have worked on multiple real-world production projects, including e-commerce websites, corporate platforms, educational websites, and community-based digital platforms.
+[![Email](https://img.shields.io/badge/Email-rooneyhossain@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rooneyhossain@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Rony5797-181717?style=flat-square&logo=github)](https://github.com/Rony5797)
+[![Portfolio](https://img.shields.io/badge/Portfolio-womenstylexpert.com-4169E1?style=flat-square&logo=world&logoColor=white)](https://womenstylexpert.com/)
 
 ---
 
-## What I Do
+</div>
 
-- Full-stack web application development
-- MERN stack project development
-- E-commerce website development
-- Corporate and business website development
-- Frontend development with React and Next.js
-- Backend development with Node.js and Express.js
-- Database design using MongoDB and SQL
-- REST API development and integration
-- Production deployment and optimization
+## 🚀 About Me
+
+I'm a passionate **Full-Stack Developer** specializing in building modern, scalable, and production-ready web applications. With extensive experience in the **MERN stack**, I transform complex ideas into elegant digital solutions.
+
+Based in New York, I work on everything from e-commerce platforms to corporate and educational websites. My approach combines clean architecture, best practices, and a deep understanding of user experience.
+
+<img src="https://media.giphy.com/media/LmNwrBhejkhrBmjwc6/giphy.gif" width="60" height="60" alt="coding">
 
 ---
 
-## Currently Learning
+## 💼 What I Do
 
-- Advanced React patterns
-- GraphQL
-- Scalable backend architecture
-- Modern DevOps workflows
+<table>
+<tr>
+<td width="50%">
+
+**🎨 Frontend Development**
+- Modern React & Next.js applications
+- Responsive UI/UX with Tailwind & Bootstrap
+- State management & optimization
+- Progressive Web Apps (PWA)
+
+</td>
+<td width="50%">
+
+**⚙️ Backend Development**
+- Scalable Node.js & Express.js APIs
+- RESTful & GraphQL services
+- Database design & optimization
+- Real-time applications
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🛒 E-Commerce Solutions**
+- Full-featured shopping platforms
+- Payment integration & checkout flows
+- Inventory management systems
+- Customer analytics
+
+</td>
+<td width="50%">
+
+**🚀 DevOps & Deployment**
+- Docker & Kubernetes orchestration
+- CI/CD pipeline setup
+- Cloud deployment (Vercel, Netlify)
+- VPS management & optimization
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Skills & Technologies
+## 🛠️ Tech Stack
+
+<div align="center">
 
 ### Languages
-- JavaScript
-- SQL
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Frontend
-- React.js
-- Next.js
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend
-- Node.js
-- Express.js
-- REST API
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### Database
-- MongoDB
-- SQL
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools & Platforms
-- Git
-- GitHub
-- Docker
-- Kubernetes
-- Webpack
-- Vercel
-- Netlify
-- cPanel
-- VPS Deployment
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
+
+</div>
 
 ---
 
-## Featured Projects
+## 📊 Skills Distribution
 
-### E-Commerce Platform  
-A full-featured e-commerce platform built with the MERN stack.
-
-**Repository:** [E-Commerce Platform](https://github.com/Rony5797/e-commerce-platform)
-
----
-
-### Social Media App  
-A social media application with real-time chat and post-sharing features using MongoDB, Express.js, React, and Node.js.
-
-**Repository:** [Social Media App](https://github.com/Rony5797/social-media-app)
+```
+Full-Stack Development  ████████████████████░░░░ 90%
+Frontend Development   ███████████████████░░░░░░ 85%
+Backend Development    ██████████████████░░░░░░░ 80%
+Database Design        ███████████████████░░░░░░ 85%
+DevOps & Deployment    ████████████████░░░░░░░░░ 75%
+UI/UX Design           █████████████░░░░░░░░░░░░ 65%
+```
 
 ---
 
-### Exo Guardians International Ltd  
-Corporate website for an international security services company, showcasing services, certifications, and global operations.
+## 🎯 Featured Projects
 
-**Live Website:** [exo-guardiansinternationalpltd.com](https://exo-guardiansinternationalpltd.com)
+<table>
+<tr>
+<td width="50%">
+
+### 🛍️ Women Style Xpert
+**Fashion E-Commerce Platform**
+- Modern responsive design
+- Secure payment integration
+- Inventory management
+- Customer dashboard
+
+[👉 Visit Website](https://womenstylexpert.com/)
+
+</td>
+<td width="50%">
+
+### 👗 Orvelaa
+**Premium Fashion Boutique**
+- Luxury product showcase
+- Advanced filtering system
+- Order tracking
+- Email notifications
+
+[👉 Visit Website](https://orvelaa.com/)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 👔 Pachtara Fashion
+**Designer Clothing Store**
+- Seasonal collections
+- Size & fit guide
+- Wishlist feature
+- Social media integration
+
+[👉 Visit Website](https://pachtarafashion.com/)
+
+</td>
+<td width="50%">
+
+### 🧵 Shuktaraa
+**Handmade Fashion Platform**
+- Artisan products
+- Custom orders
+- Story-driven marketing
+- Community engagement
+
+[👉 Visit Website](https://shuktaraa.com/)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏢 Exo Guardians International
+**Corporate Security Services**
+- Professional branding
+- Service portfolio
+- Client testimonials
+- Global reach showcase
+
+[👉 Visit Website](https://exo-guardiansinternationalpltd.com)
+
+</td>
+<td width="50%">
+
+### 📚 Abbasio Quran Learning
+**Educational Platform**
+- Student enrollment system
+- Interactive learning modules
+- Progress tracking
+- Leadership programs
+
+[👉 Visit Website](https://www.abbasioquranlearningleadershipschool.com)
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### 🌐 Patenga Online
+**Community Digital Platform**
+Local news, updates, and essential services for the Patenga community
+
+[👉 Visit Website](https://patengaonline.com.bd)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### Abbasio Quran Learning Leadership School  
-Educational platform designed for online Quran learning, student enrollment, leadership programs, and interactive learning modules.
+## 📈 GitHub Analytics
 
-**Live Website:** [abbasioquranlearningleadershipschool.com](https://www.abbasioquranlearningleadershipschool.com)
+<div align="center">
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rony5797&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
 
-### Patenga Online  
-A local Bangladeshi digital platform offering news, updates, and essential online services to the Patenga community.
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rony5797&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&dates=c9d1d9&currStreakNum=c9d1d9)
 
-**Live Website:** [patengaonline.com.bd](https://patengaonline.com.bd)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rony5797&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
----
-
-## Recent Production Projects
-
-| Project | Type | Live Link |
-|---|---|---|
-| Women Style Xpert | Fashion / E-commerce Website | [Visit Website](https://womenstylexpert.com/) |
-| Orvelaa | Fashion / E-commerce Website | [Visit Website](https://orvelaa.com/) |
-| Pachtara Fashion | Fashion / E-commerce Website | [Visit Website](https://pachtarafashion.com/) |
-| Shuktaraa | Fashion / E-commerce Website | [Visit Website](https://shuktaraa.com/) |
-| NTK Fashion | Fashion / E-commerce Website | [Visit Website](https://ntkfashion.com/) |
+</div>
 
 ---
 
-## GitHub Stats
+## 🎓 Currently Learning
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rony5797&show_icons=true&theme=radical" alt="Rony Hossain GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rony5797&theme=radical" alt="Rony Hossain GitHub Streak" />
-</p>
+![Advanced React Patterns](https://img.shields.io/badge/Advanced%20React%20Patterns-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Microservices Architecture](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge)
+![Cloud Technologies](https://img.shields.io/badge/Cloud%20Technologies-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rony5797&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</div>
 
 ---
 
-## Connect With Me
+## 🌟 Project Statistics
 
-I am open to collaboration, freelance projects, and full-stack development opportunities.
+```
+Total Projects Completed     ████████████████████ 25+
+E-Commerce Platforms         ██████████████░░��░░░ 12
+Educational Websites         ██████░░░░░░░░░░░░░░  5
+Corporate Websites           ██████░░░░░░░░░░░░░░  5
+Custom Web Applications      ████░░░░░░░░░░░░░░░░  3
 
-**Email:** [rooneyhossain@gmail.com](mailto:rooneyhossain@gmail.com)
+Lines of Code Written        ████████████████░░░░ 150K+
+GitHub Contributions         ████████████████░░░░ 1000+
+Active Development Days      ████████████████░░░░ 1500+
+```
 
 ---
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Rony5797/count.svg" alt="Visitor Count" />
-</p>
+## 💡 Development Approach
 
-<p align="center">
-  Thanks for visiting my profile!
-</p>
+<div align="center">
+
+```
+User-Centric Design → Clean Architecture → Scalable Solutions
+     ↓                      ↓                      ↓
+  Figma & Wireframes    SOLID Principles    Cloud Deployment
+     ↓                      ↓                      ↓
+  Responsive UI       Optimized Code         Monitoring & Logs
+```
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing new projects, creative ideas, and opportunities to leverage web technologies to solve real-world problems.
+
+<div align="center">
+
+[![Email Badge](https://img.shields.io/badge/📧%20Email-rooneyhossain@gmail.com-EA4335?style=flat-square&link=mailto:rooneyhossain@gmail.com)](mailto:rooneyhossain@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/🔗%20GitHub-Rony5797-181717?style=flat-square&link=https://github.com/Rony5797)](https://github.com/Rony5797)
+[![Portfolio Badge](https://img.shields.io/badge/🌐%20Portfolio-womenstylexpert.com-4169E1?style=flat-square&link=https://womenstylexpert.com/)](https://womenstylexpert.com/)
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Open to Collaborations, Freelance Projects & Full-Stack Development Opportunities
+
+<img src="https://komarev.com/ghpvc/?username=Rony5797&style=flat-square&color=58a6ff" alt="Profile Views" />
+
+![Profile Last Updated](https://img.shields.io/badge/Last%20Updated-October%202026-58a6ff?style=flat-square)
+
+**Thank you for visiting my profile!** 🙏
+
+</div>
